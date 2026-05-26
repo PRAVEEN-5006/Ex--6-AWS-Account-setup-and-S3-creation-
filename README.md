@@ -1,7 +1,7 @@
 # Ex--3-AWS-Account-setup-and-S3-creation
 
-# Name :MANIKANDAN M
-# Reg.no : 212224230183
+# Name :PRAVEEN P B
+# Reg.no : 212224050032
 
 # Introduction
 
